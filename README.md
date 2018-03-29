@@ -4,5 +4,5 @@
 3) 后续载入信息泄漏检测模块
 
 0x02 社工库
-![Alt text](https://github.com/poions/django_login/images/2.png)
+![Alt text](https://github.com/poions/django_login/tree/master/images)
 # 利用调用的api进行数据查询
